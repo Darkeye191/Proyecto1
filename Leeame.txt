@@ -1,0 +1,14 @@
+Los enlaces que funcionan se encuentran en el footer, son:
+  Quienes somos
+  Comparte tu opinion
+  Contacto
+  Sucursales
+
+
+Se pueden encontrar animaciones en el logo de Dominos de la Navbar, asi como en
+las fotos de las pizzas, y en Quienes somos. 
+
+La no utilice mediaqueries personalizados, con los de bootstrap resulto satisfac
+torio el resultado al redimensionar
+
+Las imagenes las tome directamente de la pagina oficial

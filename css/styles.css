@@ -1,0 +1,61 @@
+*{
+  font-family: 'Varela Round', sans-serif;
+}
+.futer{
+  background-color: #666666;
+  margin-top: 30px;
+  color: white;
+  padding-top: 20px;
+}
+.futer p{
+  background-color: #bab0b0;
+  text-align: center;
+}
+
+.el{
+  margin-top: 30px;
+  text-align: center;
+}
+
+.derechos{
+  padding: 10px;
+}
+
+.futer p redesSoc{
+  background-color: white;
+}
+
+.somosT{
+  margin-top: 5px;
+  padding-top: 5px;
+}
+
+.imagenSomos{
+  margin-top: 30px;
+
+}
+.imagenSomos:hover{
+	transform: scale(1.5);
+}
+
+.imagenPizza:hover{
+  transition: 1s;
+  transform: scale(1.5);
+}
+
+.gridPizza{
+  padding-left: 10%;
+  padding-right: 10%;
+  max-width: 100%;
+}
+
+.gridOp{
+
+  padding-left: 30%;
+  padding-right: 30%;
+}
+
+.logo:hover{
+  transition: 1s;
+  transform: rotate(720deg);
+}
